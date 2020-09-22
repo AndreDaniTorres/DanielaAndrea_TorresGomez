@@ -1,5 +1,4 @@
 from vector import *
-#import numpy as np
 
 ##Vectores:
 a = VectorCartesiano(1.5, 0,  2.4)
